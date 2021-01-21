@@ -1,4 +1,4 @@
-### balindev profile info
+### balin's profile                              ![python](https://raw.githubusercontent.com/balindev/balindev/main/python-3-logo.png)
 
 
 
