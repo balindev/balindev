@@ -9,7 +9,7 @@
 
 ### My programming languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balindev&layout=compact&theme=dark)
-
-![python](https://raw.githubusercontent.com/balindev/balindev/main/1200px-Python-logo-notext.svg.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balindev&layout=compact&theme=dark) ![python](https://raw.githubusercontent.com/balindev/balindev/main/1200px-Python-logo-notext.svg.png)
 ![javascript](https://raw.githubusercontent.com/balindev/balindev/main/1200px-Unofficial_JavaScript_logo_2.svg.png)
+
+
