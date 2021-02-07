@@ -1,7 +1,7 @@
 ### balin's profile
 
 
-- 💻 I’m currently working on pybot project
+- 💻 I’m currently working on BalinBot
 
 ![balin's github stats](https://github-readme-stats.vercel.app/api?username=balindev&show_icons=true&theme=dark)
 
