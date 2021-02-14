@@ -6,8 +6,12 @@ i love to code and i love coding discord bots
 and I’m currently working on BalinBot (discord bot)
 
 
-### My stats 📊
-![balin's github stats](https://github-readme-stats.vercel.app/api?username=balindev&show_icons=true&theme=dark)
+### My projects 🖥️
+<a href="https://github.com/balindev/discord-js-base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=balindev&repo=discord-js-base&show_owner=true&theme=dark&hide_border=true"></a>
+<a href="https://github.com/balindev/discord-py-base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=balindev&repo=discord-py-base&show_owner=true&theme=dark&hide_border=true"></a>>
+<br>
+<br>
+
 
 
 
@@ -19,14 +23,10 @@ and I’m currently working on BalinBot (discord bot)
 
 
 
-### My projects 🖥️
-<a href="https://github.com/balindev/discord-js-base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=balindev&repo=discord-js-base&show_owner=true&theme=dark&hide_border=true"></a>
-<a href="https://github.com/balindev/discord-py-base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=balindev&repo=discord-py-base&show_owner=true&theme=dark&hide_border=true"></a>>
-<br>
-<br>
 
 
 
-
+### My stats 📊
+![balin's github stats](https://github-readme-stats.vercel.app/api?username=balindev&show_icons=true&theme=dark)
 
 
