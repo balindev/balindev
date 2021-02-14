@@ -20,8 +20,8 @@ and I’m currently working on BalinBot (discord bot)
 
 
 ### My projects 🖥️
-<a href="https://github.com/balindev/discord-js-base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=DiscordBotHelp&show_owner=true&theme=radical&hide_border=true"></a>
-<a href="https://github.com/NexInfinite/redpandapics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NexInfinite&repo=redpandapics&show_owner=true&theme=radical&hide_border=true"></a>
+<a href="https://github.com/balindev/discord-js-base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=balindevc&repo=discord-js-base&show_owner=true&theme=radical&hide_border=true"></a>
+<a href="https://github.com/balindev/discord-py-base"><img src="https://github-readme-stats.vercel.app/api/pin/?username=balindevc&repo=discord-py-base&show_owner=true&theme=radical&hide_border=true"></a>>
 <br>
 <br>
 
