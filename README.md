@@ -14,12 +14,12 @@ and I’m currently working on BalinBot (discord bot)
 
 ## My programming languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balindev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balindev&layout=compact&hide_border=true)
 
 ## Info 
 Discord - Balin#4359. <br />
 Website - https://balin.cc <br />
 YouTube - balin, https://www.youtube.com/channel/UCS66Vo5GFi0kM0ByclUqJOA.
-![balin's github stats](https://github-readme-stats.vercel.app/api?username=balindev&show_icons=true&hide=issues)
+![balin's github stats](https://github-readme-stats.vercel.app/api?username=balindev&show_icons=true&hide=issues&hide_border=true)
 
 
