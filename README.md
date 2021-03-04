@@ -19,7 +19,7 @@ YouTube - balin, https://www.youtube.com/channel/UCS66Vo5GFi0kM0ByclUqJOA.
 
 ## My programming languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balindev&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balindev&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 
